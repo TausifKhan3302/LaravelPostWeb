@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form{
+    border-radius: 10px;
+    position: relative;
+    top: 11rem;
+
+    /* left: -34rem; */
+}
+form .form-control{
+    width:40vw ;
+    font-size: 17px;
+}
+
+/* .mb-3 input{
+    border: 2px solid rgb(21, 119, 10);
+    margin: 3px;
+    width: 25vw;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    filter: drop-shadow(1px 1px 1px black);
+    
+} */
+
+.sessionAlert{
+  position: relative;
+  left: 13rem; 
+  bottom: 3rem;
+}
+
+.register-link{
+    margin-left: .5rem;
+    position: relative;
+    top: .3rem;
+}
